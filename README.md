@@ -1,4 +1,4 @@
-# Cash Sweep Checking Account Add-On, Bank of America
+# Cash Sweep Checking Account Plugin, Bank of America
 
 ## Summary
 Helps us invest the money in our Bank of America checking account. Sends us email notifications daily when our checking account balance is too low or too high. [Graphs out our checking account balance](https://docs.google.com/spreadsheets/d/1e4Cjd7HYVJiZ_eHjveifmQ58KP4y4dcOke4ffJzniMU/edit?usp=sharing), so we can [fine-tune our automatic investments](https://docs.google.com/spreadsheets/d/1e4Cjd7HYVJiZ_eHjveifmQ58KP4y4dcOke4ffJzniMU/edit#gid=1885744358). Generates about $300/year in financial value. It's easier to do with Wells Fargo than Bank of America.

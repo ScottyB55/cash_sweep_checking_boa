@@ -7,7 +7,7 @@ Helps us invest the money in our Bank of America checking account. Sends us emai
 I've been running this since May 2024, and it works well. It has error handling too. Note: my Bank of America direct deposits stopped for a few weeks starting Mid-November 2024, so I could take advantage of a Citadel checkinga account promotion.
 
 ## Implementation
-Google Apps Script. Reach out to Scott for more details - srburnett111@gmail.com
+Google Apps Script. It's straightforward to set up and run automatically daily. Reach out to Scott for more details - srburnett111@gmail.com
 
 ## Examples & Useful Documents
 [Daily Balance Log Example](https://docs.google.com/spreadsheets/d/1e4Cjd7HYVJiZ_eHjveifmQ58KP4y4dcOke4ffJzniMU/edit?usp=sharing)<br>
